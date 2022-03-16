@@ -1,2 +1,2 @@
 
-Antra Full-Stack SEP training
+Antra Full-Stack SEP Training March
